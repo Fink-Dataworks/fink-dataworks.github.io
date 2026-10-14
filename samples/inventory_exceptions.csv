@@ -1,0 +1,30 @@
+source_id,sku,notes,action_required
+D002,INV-100,SKU standardized; Product name standardized; Category standardized; Potential duplicate of D001: client review needed,Client review
+D003,OFF-206,Missing quantity: client input needed,Client review
+D004,PKG-318,Category standardized,None (standardization documented)
+D006,OFF-206,SKU standardized; Potential duplicate of D003: client review needed,Client review
+D007,PKG-207,Product name standardized,None (standardization documented)
+D011,OFF-211,Category standardized; Missing quantity: client input needed,Client review
+D012,PKG-212,SKU standardized; Category standardized,None (standardization documented)
+D014,STN-214,Product name standardized,None (standardization documented)
+D017,PKG-217,Missing quantity: client input needed,Client review
+D018,TEC-218,SKU standardized,None (standardization documented)
+D021,OFF-221,Product name standardized,None (standardization documented)
+D022,PKG-222,Category standardized,None (standardization documented)
+D024,STN-224,SKU standardized,None (standardization documented)
+D028,TEC-228,Product name standardized,None (standardization documented)
+D030,STN-230,SKU standardized,None (standardization documented)
+D031,OFF-231,Missing quantity: client input needed,Client review
+D032,PKG-232,Category standardized,None (standardization documented)
+D033,INV-233,Category standardized,None (standardization documented)
+D035,INV-235,Product name standardized,None (standardization documented)
+D036,OFF-236,SKU standardized,None (standardization documented)
+D042,PKG-242,SKU standardized; Product name standardized,None (standardization documented)
+D044,STN-244,Category standardized,None (standardization documented)
+D045,INV-245,Missing quantity: client input needed,Client review
+D048,TEC-248,SKU standardized,None (standardization documented)
+D049,STR-249,Product name standardized,None (standardization documented)
+D051,TEC-208,SKU standardized; Product name standardized; Potential duplicate of D008: client review needed,Client review
+D052,OFF-216,SKU standardized; Product name standardized; Potential duplicate of D016: client review needed,Client review
+D053,PKG-227,SKU standardized; Product name standardized; Potential duplicate of D027: client review needed,Client review
+D054,STR-239,SKU standardized; Product name standardized; Potential duplicate of D039: client review needed,Client review

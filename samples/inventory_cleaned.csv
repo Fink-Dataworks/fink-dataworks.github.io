@@ -1,0 +1,55 @@
+source_id,sku,product,category,quantity,unit_price_usd,review_status,change_notes
+D001,INV-100,Desk Lamp,Electronics,12,34.99,Standardized,No changes
+D002,INV-100,Desk Lamp,Electronics,12,34.99,Needs review,SKU standardized; Product name standardized; Category standardized; Potential duplicate of D001: client review needed
+D003,OFF-206,Notebook A5,Stationery,,5.49,Needs review,Missing quantity: client input needed
+D004,PKG-318,Shipping Box,Packaging,24,2.10,Standardized,Category standardized
+D005,INV-205,Desk Lamp,Electronics,38,34.99,Standardized,No changes
+D006,OFF-206,Notebook A5,Stationery,45,5.49,Needs review,SKU standardized; Potential duplicate of D003: client review needed
+D007,PKG-207,Shipping Box,Packaging,52,2.10,Standardized,Product name standardized
+D008,TEC-208,USB-C Cable,electronics,59,9.95,Standardized,No changes
+D009,STR-209,File Organizer,Office Storage,66,18.50,Standardized,No changes
+D010,STN-210,Gel Pen Pack,Stationery,73,6.75,Standardized,No changes
+D011,OFF-211,Desk Mat,Desk Accessories,,12.95,Needs review,Category standardized; Missing quantity: client input needed
+D012,PKG-212,Bubble Mailer,Packaging,87,1.50,Standardized,SKU standardized; Category standardized
+D013,INV-213,Desk Clock,Desk Accessories,8,19.99,Standardized,No changes
+D014,STN-214,Sticky Notes,Stationery,15,3.25,Standardized,Product name standardized
+D015,INV-215,Desk Lamp,Electronics,22,34.99,Standardized,No changes
+D016,OFF-216,Notebook A5,stationery,29,5.49,Standardized,No changes
+D017,PKG-217,Shipping Box,Packaging,,2.10,Needs review,Missing quantity: client input needed
+D018,TEC-218,USB-C Cable,Electronics,43,9.95,Standardized,SKU standardized
+D019,STR-219,File Organizer,Office Storage,50,18.50,Standardized,No changes
+D020,STN-220,Gel Pen Pack,stationery,57,6.75,Standardized,No changes
+D021,OFF-221,Desk Mat,Desk Accessories,64,12.95,Standardized,Product name standardized
+D022,PKG-222,Bubble Mailer,Packaging,71,1.50,Standardized,Category standardized
+D023,INV-223,Desk Clock,Desk Accessories,78,19.99,Standardized,No changes
+D024,STN-224,Sticky Notes,stationery,85,3.25,Standardized,SKU standardized
+D025,INV-225,Desk Lamp,Electronics,6,34.99,Standardized,No changes
+D026,OFF-226,Notebook A5,Stationery,13,5.49,Standardized,No changes
+D027,PKG-227,Shipping Box,Packaging,20,2.10,Standardized,No changes
+D028,TEC-228,USB-C Cable,electronics,27,9.95,Standardized,Product name standardized
+D029,STR-229,File Organizer,Office Storage,34,18.50,Standardized,No changes
+D030,STN-230,Gel Pen Pack,Stationery,41,6.75,Standardized,SKU standardized
+D031,OFF-231,Desk Mat,Desk Accessories,,12.95,Needs review,Missing quantity: client input needed
+D032,PKG-232,Bubble Mailer,Packaging,55,1.50,Standardized,Category standardized
+D033,INV-233,Desk Clock,Desk Accessories,62,19.99,Standardized,Category standardized
+D034,STN-234,Sticky Notes,Stationery,69,3.25,Standardized,No changes
+D035,INV-235,Desk Lamp,Electronics,76,34.99,Standardized,Product name standardized
+D036,OFF-236,Notebook A5,stationery,83,5.49,Standardized,SKU standardized
+D037,PKG-237,Shipping Box,Packaging,4,2.10,Standardized,No changes
+D038,TEC-238,USB-C Cable,Electronics,11,9.95,Standardized,No changes
+D039,STR-239,File Organizer,Office Storage,18,18.50,Standardized,No changes
+D040,STN-240,Gel Pen Pack,stationery,25,6.75,Standardized,No changes
+D041,OFF-241,Desk Mat,Desk Accessories,32,12.95,Standardized,No changes
+D042,PKG-242,Bubble Mailer,Packaging,39,1.50,Standardized,SKU standardized; Product name standardized
+D043,INV-243,Desk Clock,Desk Accessories,46,19.99,Standardized,No changes
+D044,STN-244,Sticky Notes,Stationery,53,3.25,Standardized,Category standardized
+D045,INV-245,Desk Lamp,Electronics,,34.99,Needs review,Missing quantity: client input needed
+D046,OFF-246,Notebook A5,Stationery,67,5.49,Standardized,No changes
+D047,PKG-247,Shipping Box,Packaging,74,2.10,Standardized,No changes
+D048,TEC-248,USB-C Cable,electronics,81,9.95,Standardized,SKU standardized
+D049,STR-249,File Organizer,Office Storage,88,18.50,Standardized,Product name standardized
+D050,STN-250,Gel Pen Pack,Stationery,9,6.75,Standardized,No changes
+D051,TEC-208,USB-C Cable,electronics,59,9.95,Needs review,SKU standardized; Product name standardized; Potential duplicate of D008: client review needed
+D052,OFF-216,Notebook A5,stationery,29,5.49,Needs review,SKU standardized; Product name standardized; Potential duplicate of D016: client review needed
+D053,PKG-227,Shipping Box,Packaging,20,2.10,Needs review,SKU standardized; Product name standardized; Potential duplicate of D027: client review needed
+D054,STR-239,File Organizer,Office Storage,18,18.50,Needs review,SKU standardized; Product name standardized; Potential duplicate of D039: client review needed

@@ -1,0 +1,55 @@
+id,sku,product,category,quantity,price
+D001,INV-100,Desk Lamp,Electronics,12,34.99
+D002,inv100,desk lamp,electronic,12,34.99
+D003,OFF-206,Notebook A5,Stationery,?,5.49
+D004,PKG-318,Shipping Box,packaging,24,2.10
+D005,INV-205,Desk Lamp,Electronics,38,34.99
+D006,off206,Notebook A5,Stationery,45,5.49
+D007,PKG-207,shipping box,Packaging,52,2.10
+D008,TEC-208,USB-C Cable,electronics,59,9.95
+D009,STR-209,File Organizer,Office Storage,66,18.50
+D010,STN-210,Gel Pen Pack,Stationery,73,6.75
+D011,OFF-211,Desk Mat,desk accessory,?,12.95
+D012,pkg212,Bubble Mailer,packaging,87,1.50
+D013,INV-213,Desk Clock,Desk Accessories,8,19.99
+D014,STN-214,sticky notes,Stationery,15,3.25
+D015,INV-215,Desk Lamp,Electronics,22,34.99
+D016,OFF-216,Notebook A5,stationery,29,5.49
+D017,PKG-217,Shipping Box,Packaging,?,2.10
+D018,tec218,USB-C Cable,Electronics,43,9.95
+D019,STR-219,File Organizer,Office Storage,50,18.50
+D020,STN-220,Gel Pen Pack,stationery,57,6.75
+D021,OFF-221,desk mat,Desk Accessories,64,12.95
+D022,PKG-222,Bubble Mailer,pkg,71,1.50
+D023,INV-223,Desk Clock,Desk Accessories,78,19.99
+D024,stn224,Sticky Notes,stationery,85,3.25
+D025,INV-225,Desk Lamp,Electronics,6,34.99
+D026,OFF-226,Notebook A5,Stationery,13,5.49
+D027,PKG-227,Shipping Box,Packaging,20,2.10
+D028,TEC-228,usb-c cable,electronics,27,9.95
+D029,STR-229,File Organizer,Office Storage,34,18.50
+D030,stn230,Gel Pen Pack,Stationery,41,6.75
+D031,OFF-231,Desk Mat,Desk Accessories,?,12.95
+D032,PKG-232,Bubble Mailer,packaging,55,1.50
+D033,INV-233,Desk Clock,desk accessory,62,19.99
+D034,STN-234,Sticky Notes,Stationery,69,3.25
+D035,INV-235,desk lamp,Electronics,76,34.99
+D036,off236,Notebook A5,stationery,83,5.49
+D037,PKG-237,Shipping Box,Packaging,4,2.10
+D038,TEC-238,USB-C Cable,Electronics,11,9.95
+D039,STR-239,File Organizer,Office Storage,18,18.50
+D040,STN-240,Gel Pen Pack,stationery,25,6.75
+D041,OFF-241,Desk Mat,Desk Accessories,32,12.95
+D042,pkg242,bubble mailer,Packaging,39,1.50
+D043,INV-243,Desk Clock,Desk Accessories,46,19.99
+D044,STN-244,Sticky Notes,stationary,53,3.25
+D045,INV-245,Desk Lamp,Electronics,?,34.99
+D046,OFF-246,Notebook A5,Stationery,67,5.49
+D047,PKG-247,Shipping Box,Packaging,74,2.10
+D048,tec248,USB-C Cable,electronics,81,9.95
+D049,STR-249,file organizer,Office Storage,88,18.50
+D050,STN-250,Gel Pen Pack,Stationery,9,6.75
+D051,tec208,usb-c cable,electronics,59,9.95
+D052,off216,notebook a5,stationery,29,5.49
+D053,pkg227,shipping box,Packaging,20,2.10
+D054,str239,file organizer,Office Storage,18,18.50
