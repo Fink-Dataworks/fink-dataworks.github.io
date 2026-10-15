@@ -1,0 +1,134 @@
+﻿Source ID,Normalized SKU,Description,Category,Bin,UOM,On Hand,Reorder Min,Unit Cost,Supplier,Count Date,Duplicate Group,Issue Count,Release Status,Line Value,Stock Signal
+IN-0001,SP-1101,Pillow Block Bearing - Heavy Duty,Bearings & Power Transmission,WH-D-01-01,PAIR,29,19,268.41,Meridian Industrial,2026-07-22,,0,READY,7783.89,OK
+IN-0002,SP-1102,Deep Groove Bearing - Type B,Bearings & Power Transmission,WH-C-02-03,EA,68,18,166.98,Meridian Industrial,2026-07-14,,0,READY,11354.64,OK
+IN-0003,SP-1103,Roller Chain - Series 2,Bearings & Power Transmission,WH-A-01-02,EA,59,21,73.64,North Forge Parts,2026-08-30,,0,READY,4344.76,OK
+IN-0004,SP-1104,V-Belt - Heavy Duty,Bearings & Power Transmission,WH-C-01-01,PAIR,59,4,116.55,Meridian Industrial,2026-07-18,,0,READY,6876.45,OK
+IN-0005,SP-1105,Drive Pulley - Heavy Duty,Bearings & Power Transmission,WH-D-04-03,BOX,77,7,362.55,Canyon Equipment,2026-09-16,SP-1105,1,REVIEW,27916.35,CHECK
+IN-0006,SP-1106,Shaft Coupling - Standard,Bearings & Power Transmission,WH-C-03-01,EA,38,15,128.69,Meridian Industrial,2026-07-12,,0,READY,4890.22,OK
+IN-0007,SP-1107,Chain Tensioner - Metric,Bearings & Power Transmission,WH-C-03-04,FT,,15,387.34,North Forge Parts,2026-08-24,,1,REVIEW,,CHECK
+IN-0008,SP-1108,taper lock bushing - standard,Bearings & Power Transmission,WH-B-02-04,EA,90,13,140.44,Meridian Industrial,2026-09-08,,0,READY,12639.6,OK
+IN-0009,SP-1109,Idler Sprocket - Series 2,Bearings & Power Transmission,WH-B-04-04,BOX,67,5,234.71,Meridian Industrial,2026-09-23,,0,READY,15725.57,OK
+IN-0010,SP-1110,Flange Bearing - Metric,Bearings & Power Transmission,WH-D-01-02,EA,13,22,262.89,Meridian Industrial,2026-08-24,,0,READY,3417.57,LOW
+IN-0011,SP-1111,Motor Key Stock - Heavy Duty,Bearings & Power Transmission,WH-D-02-02,BOX,39,4,25.89,Meridian Industrial,2026-07-24,,0,READY,1009.71,OK
+IN-0012,SP-??,Drive Sheave - Standard,Bearings & Power Transmission,WH-B-02-05,EA,37,16,37.91,Canyon Equipment,2026-07-08,,1,REVIEW,1402.67,CHECK
+IN-0013,SP-1113,Return Idler Roller - Type B,Conveyor Systems,WH-B-03-05,EA,44,11,329.84,Meridian Industrial,2026-08-31,,0,READY,14512.96,OK
+IN-0014,SP-1114,Impact Roller - Series 2,Conveyor Systems,WH-C-02-03,EA,11,4,250.6,Canyon Equipment,2026-09-04,,0,READY,2756.6,OK
+IN-0015,SP-1115,Belt Scraper Blade - Series 2,Conveyor Systems,WH-A-04-04,EA,,10,106.05,Canyon Equipment,2026-09-20,,1,REVIEW,,CHECK
+IN-0016,SP-1116,conveyor belt clip - standard,Conveyor Systems,WH-D-04-05,EA,2,9,262.92,Redgate Supply,2026-07-29,SP-1116,1,REVIEW,525.84,CHECK
+IN-0017,SP-1117,Belt Tracking Roller - Metric,Conveyor Systems,WH-A-02-05,PAIR,47,8,184.74,North Forge Parts,2026-09-06,,0,READY,8682.78,OK
+IN-0018,SP-1118,Drive Drum Lining - Type B,Conveyor Systems,,FT,68,14,49.81,Canyon Equipment,2026-08-13,,1,REVIEW,3387.08,CHECK
+IN-0019,SP-1119,Take-Up Spring - Standard,Conveyor Systems,WH-B-03-05,EA,49,12,208.9,Meridian Industrial,2026-08-12,,0,READY,10236.1,OK
+IN-0020,SP-1120,Skirt Rubber - Metric,Conveyor Systems,WH-A-02-05,EA,64,21,239.8,Meridian Industrial,2026-08-08,,0,READY,15347.2,OK
+IN-0021,SP-1121,Roller Bracket - Standard,Conveyor Systems,WH-D-01-05,PAIR,26,-1,229.64,Redgate Supply,2026-07-03,,1,REVIEW,5970.64,CHECK
+IN-0022,SP-1122,Belt Cleaner Arm - Metric,Conveyor Systems,WH-B-04-01,EA,57,14,293.14,Redgate Supply,2026-07-26,SP-1122,1,REVIEW,16708.98,CHECK
+IN-0023,SP-1123,Guard Panel - Standard,Conveyor Systems,WH-B-03-01,FT,20,21,120.77,Meridian Industrial,2026-07-07,,0,READY,2415.4,LOW
+IN-0024,SP-1124,splice plate - metric,Conveyor Systems,WH-C-03-03,EA,67,17,41.8,Canyon Equipment,2026-07-18,,0,READY,2800.6,OK
+IN-0025,SP-1125,Hydraulic Hose Assembly - Type B,Hydraulics,WH-A-03-04,EA,88,21,276.82,Redgate Supply,2026-08-22,,0,READY,24360.16,OK
+IN-0026,SP-1126,Quick Connect Coupler - Heavy Duty,Hydraulics,WH-B-02-05,EA,76,19,,Meridian Industrial,2026-08-06,,1,REVIEW,,CHECK
+IN-0027,SP-1127,Hydraulic Filter - Type B,Hydraulics,WH-A-02-04,PAIR,-3,8,215.97,Meridian Industrial,2026-08-25,,1,REVIEW,,CHECK
+IN-0028,SP-1128,Cylinder Seal Kit - Heavy Duty,Hydraulics,WH-D-01-05,BOX,17,9,179.65,North Forge Parts,2026-07-25,,0,READY,3054.05,OK
+IN-0029,SP-1129,Pressure Gauge - Standard,Hydraulics,WH-B-04-02,EA,5,14,246.7,Canyon Equipment,2026-08-02,,0,READY,1233.5,LOW
+IN-0030,SP-1130,Hydraulic Elbow - Heavy Duty,Hydraulics,WH-A-03-02,EA,12,17,286.46,Meridian Industrial,2026-09-10,,0,READY,3437.52,LOW
+IN-0031,SP-1131,O-Ring Assortment - Series 2,Hydraulics,WH-A-01-02,PAIR,3,17,4.73,Canyon Equipment,2026-13-02,,0,READY,14.19,LOW
+IN-0032,SP-1132,relief valve - standard,Hydraulics,WH-D-04-01,FT,56,11,329.67,Redgate Supply,2026-08-01,,0,READY,18461.52,OK
+IN-0033,SP-1133,Hydraulic Tee - Type B,UNKNOWN CATEGORY,WH-C-04-05,EA,51,20,134.86,Meridian Industrial,2026-07-20,,1,REVIEW,6877.86,CHECK
+IN-0034,SP-1134,Return Line Filter - Type B,Hydraulics,WH-C-03-05,EA,10,18,228.38,Meridian Industrial,2026-07-22,,0,READY,2283.8,LOW
+IN-0035,SP-1135,Hydraulic Clamp - Series 2,Hydraulics,STAGING???,EA,35,7,266.83,North Forge Parts,2026-07-05,,1,REVIEW,9339.05,CHECK
+IN-0036,SP-1136,Flow Control Valve - Heavy Duty,Hydraulics,WH-A-01-05,EA,21,6,268.39,Redgate Supply,2026-09-01,,0,READY,5636.19,OK
+IN-0037,SP-1137,24V Control Relay - Type B,Electrical Controls,WH-C-04-02,PAIR,88,10,77.81,North Forge Parts,2026-07-15,,0,READY,6847.28,OK
+IN-0038,SP-1138,Contactor Coil - Metric,Electrical Controls,WH-D-01-01,EA,65,15,288.19,Meridian Industrial,2026-07-19,SP-1138,1,REVIEW,18732.35,CHECK
+IN-0039,SP-1139,Proximity Sensor - Heavy Duty,Electrical Controls,WH-C-01-03,EA,56,6,89.59,Canyon Equipment,2026-08-06,,0,READY,5017.04,OK
+IN-0040,SP-1140,limit switch - type b,Electrical Controls,WH-D-03-03,BOX,23,18,75.53,North Forge Parts,2026-07-17,SP-1140,1,REVIEW,1737.19,CHECK
+IN-0041,SP-1141,Panel Fuse - Type B,Electrical Controls,WH-A-04-04,EA,,22,276.55,Redgate Supply,2026-08-26,,1,REVIEW,,CHECK
+IN-0042,SP-1142,Terminal Block - Type B,Electrical Controls,WH-C-02-05,PAIR,12,22,301.91,Meridian Industrial,2026-08-09,,0,READY,3622.92,LOW
+IN-0043,SP-1143,Emergency Stop Button - Heavy Duty,Electrical Controls,WH-B-03-05,EA,9,11,26.44,Canyon Equipment,2026-08-26,,0,READY,237.96,LOW
+IN-0044,SP-1144,Motor Starter - Series 2,Electrical Controls,WH-A-03-04,PACK,77,18,59.64,Meridian Industrial,2026-07-10,,1,REVIEW,4592.28,CHECK
+IN-0045,SP-1145,DIN Rail - Standard,Electrical Controls,WH-D-04-05,EA,18,22,110.91,Redgate Supply,2026-09-07,,0,READY,1996.38,LOW
+IN-0046,SP-1146,Cable Gland - Metric,Electrical Controls,WH-C-01-01,FT,77,17,310.05,Redgate Supply,2026-08-10,,0,READY,23873.85,OK
+IN-0047,SP-1147,Photoeye Bracket - Heavy Duty,Electrical Controls,WH-B-04-05,EA,27,17,100.6,Meridian Industrial,2026-08-30,,0,READY,2716.2,OK
+IN-0048,SP-1148,control transformer - series 2,Electrical Controls,WH-C-02-03,EA,58,18,,Redgate Supply,2026-09-20,,1,REVIEW,,CHECK
+IN-0049,SP-1149,Motor Fan Cover - Standard,Motors & Drives,WH-C-02-01,BOX,30,7,46.61,Canyon Equipment,2026-07-18,,0,READY,1398.3,OK
+IN-0050,SP-1150,Motor Thermal Overload - Heavy Duty,Motors & Drives,WH-B-02-02,EA,74,11,47.42,Canyon Equipment,2026-08-23,,0,READY,3509.08,OK
+IN-0051,SP-1151,Variable Speed Drive Fuse - Series 2,Motors & Drives,,EA,56,13,268.98,North Forge Parts,2026-08-20,,1,REVIEW,15062.88,CHECK
+IN-0052,SP-1152,Gear Reducer Seal - Type B,Motors & Drives,WH-A-03-05,EA,48,12,186.06,Canyon Equipment,2026-07-15,SP-1152,1,REVIEW,8930.88,CHECK
+IN-0053,SP-1153,Motor Shaft Adapter - Type B,Motors & Drives,WH-D-01-05,EA,54,11,133.46,Canyon Equipment,2026-08-09,,0,READY,7206.84,OK
+IN-0054,SP-1154,Motor Mount Plate - Series 2,Motors & Drives,WH-A-04-01,EA,42,11,321.54,North Forge Parts,2026-08-11,,0,READY,13504.68,OK
+IN-0055,SP-1155,Encoder Coupling - Standard,Motors & Drives,WH-A-01-03,EA,73,22,372.59,Redgate Supply,2026-09-26,,0,READY,27199.07,OK
+IN-0056,SP-1156,fan guard - standard,Motors & Drives,WH-B-03-01,EA,,5,113.44,Meridian Industrial,2026-07-08,,1,REVIEW,,CHECK
+IN-0057,SP-1157,Brake Resistor - Metric,Motors & Drives,WH-C-02-04,EA,35,11,359.51,Canyon Equipment,2026-09-26,,0,READY,12582.85,OK
+IN-0058,SP-1158,Drive Key - Series 2,Motors & Drives,WH-B-04-05,EA,32,19,388.86,Meridian Industrial,2026-07-07,,0,READY,12443.52,OK
+IN-0059,SP-1159,Motor Capacitor - Heavy Duty,Motors & Drives,WH-A-04-05,EA,74,9,16.64,Redgate Supply,2026-08-26,,0,READY,1231.36,OK
+IN-0060,SP-1160,Fan Impeller - Series 2,Motors & Drives,WH-C-04-03,EA,40,19,158.32,Redgate Supply,2026-09-27,,0,READY,6332.8,OK
+IN-0061,SP-1161,Air Filter Regulator - Metric,Pneumatics,WH-C-02-02,EA,60,17,242.17,Redgate Supply,2026-08-03,SP-1161,1,REVIEW,14530.2,CHECK
+IN-0062,SP-1162,Pneumatic Cylinder - Type B,Pneumatics,WH-C-03-01,EA,63,15,264.59,Meridian Industrial,2026-07-11,,0,READY,16669.17,OK
+IN-0063,SP-1163,Solenoid Valve - Metric,Pneumatics,WH-A-01-03,PAIR,52,,132.55,Redgate Supply,2026-09-27,,1,REVIEW,6892.6,CHECK
+IN-0064,SP-1164,push-to-connect fitting - type b,Pneumatics,WH-A-02-01,BOX,58,17,109.22,North Forge Parts,2026-09-18,SP-1164,1,REVIEW,6334.76,CHECK
+IN-0065,SP-1165,Air Tubing Roll - Heavy Duty,Pneumatics,WH-D-03-02,EA,6,20,353.76,Redgate Supply,2026-09-24,,0,READY,2122.56,LOW
+IN-0066,SP-1166,Silencer Muffler - Series 2,Pneumatics,WH-D-01-04,FT,78,4,316.18,Meridian Industrial,2026-09-09,,0,READY,24662.04,OK
+IN-0067,MISSING,Pressure Switch - Standard,Pneumatics,WH-B-01-03,EA,14,20,353.39,Canyon Equipment,2026-09-19,,1,REVIEW,4947.46,CHECK
+IN-0068,SP-1168,Flow Restrictor - Standard,Pneumatics,WH-B-03-04,EA,44,15,44.11,Canyon Equipment,2026-09-19,,0,READY,1940.84,OK
+IN-0069,SP-1169,Air Manifold - Heavy Duty,Pneumatics,WH-D-04-01,EA,36,19,95.47,Redgate Supply,2026-07-20,,0,READY,3436.92,OK
+IN-0070,SP-1170,Quick Exhaust Valve - Metric,Pneumatics,WH-C-01-04,EA,55,8,300.66,Meridian Industrial,2026-09-24,,0,READY,16536.3,OK
+IN-0071,SP-1171,Vacuum Cup - Series 2,Pneumatics,WH-C-01-03,BOX,4,5,258.43,Meridian Industrial,2026-07-20,,0,READY,1033.72,LOW
+IN-0072,SP-1172,air hose reel - standard,Pneumatics,WH-A-01-05,PAIR,45,9,215.69,Meridian Industrial,2026-07-20,,0,READY,9706.05,OK
+IN-0073,SP-1173,Hex Head Bolt - Series 2,Fasteners & Hardware,WH-B-02-03,PAIR,,13,317.45,North Forge Parts,2026-07-30,,1,REVIEW,,CHECK
+IN-0074,SP-1174,Flat Washer - Type B,Fasteners & Hardware,WH-B-02-03,BOX,60,12,316.9,North Forge Parts,2026-08-16,,0,READY,19014.0,OK
+IN-0075,SP-1175,Socket Head Cap Screw - Heavy Duty,Fasteners & Hardware,WH-B-01-03,BOX,51,20,371.85,Meridian Industrial,2026-07-09,SP-1175,1,REVIEW,18964.35,CHECK
+IN-0076,SP-1176,Nyloc Nut - Heavy Duty,Fasteners & Hardware,WH-C-02-03,EA,61,11,322.64,Canyon Equipment,2026-09-03,,0,READY,19681.04,OK
+IN-0077,SP-1177,Spring Washer - Standard,Fasteners & Hardware,WH-D-03-05,FT,5,19,23.26,Canyon Equipment,2026-09-28,,0,READY,116.3,LOW
+IN-0078,SP-1178,Threaded Rod - Metric,Fasteners & Hardware,WH-C-03-01,EA,0,14,187.81,Redgate Supply,2026-08-08,,0,READY,0.0,LOW
+IN-0079,SP-1179,Roll Pin - Type B,Fasteners & Hardware,WH-B-04-02,EA,37,-1,249.11,Meridian Industrial,2026-09-09,,1,REVIEW,9217.07,CHECK
+IN-0080,SP-1180,lock washer - metric,Fasteners & Hardware,WH-A-02-03,EA,1,22,342.64,Meridian Industrial,2026-07-17,,0,READY,342.64,LOW
+IN-0081,SP-1181,Clevis Pin - Heavy Duty,Fasteners & Hardware,WH-A-01-01,BOX,1,17,193.54,TBD vendor,2026-08-07,,1,REVIEW,193.54,CHECK
+IN-0082,SP-1182,Hose Clamp - Standard,Fasteners & Hardware,WH-B-01-02,BOX,18,20,92.3,Redgate Supply,2026-09-24,,0,READY,1661.4,LOW
+IN-0083,SP-1183,Split Pin - Standard,Fasteners & Hardware,WH-D-02-03,PAIR,77,12,,North Forge Parts,2026-09-02,,1,REVIEW,,CHECK
+IN-0084,SP-1184,Retaining Ring - Series 2,Fasteners & Hardware,WH-B-04-05,PACK,53,22,132.86,Redgate Supply,2026-07-25,,1,REVIEW,7041.58,CHECK
+IN-0085,SP-1185,Air Intake Filter - Type B,Filters & Fluids,WH-C-01-05,FT,42,10,157.69,Redgate Supply,2026-09-04,,0,READY,6622.98,OK
+IN-0086,SP-1186,Gearbox Breather - Series 2,Filters & Fluids,WH-B-03-04,BOX,75,6,380.31,Redgate Supply,2026-07-30,,0,READY,28523.25,OK
+IN-0087,SP-1187,Oil Filter Element - Standard,Filters & Fluids,WH-C-01-03,EA,87,10,23.91,Meridian Industrial,2026-07-15,SP-1187,1,REVIEW,2080.17,CHECK
+IN-0088,SP-1188,coolant strainer - series 2,Filters & Fluids,WH-A-04-05,BOX,54,6,288.53,Redgate Supply,2026-09-15,,0,READY,15580.62,OK
+IN-0089,SP-1189,Grease Cartridge - Type B,Filters & Fluids,WH-B-03-04,FT,-3,22,27.16,Canyon Equipment,2026-07-31,,1,REVIEW,,CHECK
+IN-0090,SP-1190,Dust Collector Filter - Standard,Filters & Fluids,WH-A-02-02,EA,40,19,316.4,Canyon Equipment,2026-07-23,,0,READY,12656.0,OK
+IN-0091,SP-1191,Water Separator - Standard,Filters & Fluids,WH-D-02-01,PAIR,20,7,143.8,Redgate Supply,2026-09-28,,0,READY,2876.0,OK
+IN-0092,SP-1192,Pump Strainer - Type B,Filters & Fluids,WH-D-03-05,EA,86,15,351.48,Meridian Industrial,2026-13-02,,0,READY,30227.28,OK
+IN-0093,SP-1193,Lubricant Bottle - Standard,Filters & Fluids,WH-A-01-03,EA,53,20,154.16,North Forge Parts,2026-07-26,,0,READY,8170.48,OK
+IN-0094,SP-1194,Compressor Filter - Metric,Filters & Fluids,WH-C-04-05,PAIR,39,20,104.93,Meridian Industrial,2026-08-20,,0,READY,4092.27,OK
+IN-0095,SP-1195,Fuel Filter - Series 2,Filters & Fluids,WH-A-03-01,EA,52,6,293.91,Canyon Equipment,2026-09-11,,0,READY,15283.32,OK
+IN-0096,SP-1196,cooling fan filter - standard,Filters & Fluids,,EA,46,6,194.29,Canyon Equipment,2026-07-05,,1,REVIEW,8937.34,CHECK
+IN-0097,SP-1197,Lockout Tag - Standard,Safety & Maintenance,WH-B-01-01,EA,87,17,3.77,Redgate Supply,2026-09-24,,0,READY,327.99,OK
+IN-0098,SP-1198,Safety Interlock - Standard,Safety & Maintenance,WH-C-03-02,PAIR,79,18,26.2,Canyon Equipment,2026-09-07,,0,READY,2069.8,OK
+IN-0099,SP-1199,Inspection Mirror - Heavy Duty,Safety & Maintenance,WH-A-03-03,EA,37,16,251.65,Redgate Supply,2026-08-06,,0,READY,9311.05,OK
+IN-0100,SP-1200,Spill Absorbent Pad - Standard,Safety & Maintenance,WH-D-02-02,EA,65,12,169.92,North Forge Parts,2026-08-29,,0,READY,11044.8,OK
+IN-0101,SP-1201,Warning Beacon - Heavy Duty,Safety & Maintenance,WH-D-01-05,EA,47,7,259.33,Redgate Supply,2026-07-28,SP-1201,1,REVIEW,12188.51,CHECK
+IN-0102,SP-1202,Emergency Pull Cord - Heavy Duty,Safety & Maintenance,WH-C-04-01,EA,75,20,124.38,Redgate Supply,2026-07-11,,0,READY,9328.5,OK
+IN-0103,SP-1203,Safety Guard Hinge - Standard,Safety & Maintenance,WH-C-02-03,BOX,40,19,169.85,Canyon Equipment,2026-09-18,,0,READY,6794.0,OK
+IN-0104,SP-1204,machine light - standard,Safety & Maintenance,WH-B-03-01,EA,21,8,,Redgate Supply,2026-09-30,,1,REVIEW,,CHECK
+IN-0105,SP-1205,Safety Sign Holder - Standard,Safety & Maintenance,WH-A-03-01,FT,33,21,61.34,Meridian Industrial,2026-07-25,SP-1205,1,REVIEW,2024.22,CHECK
+IN-0106,SP-1206,Cable Protector - Standard,Safety & Maintenance,WH-C-03-04,BOX,47,13,222.12,North Forge Parts,2026-07-05,,0,READY,10439.64,OK
+IN-0107,SP-1207,Tool Lanyard - Heavy Duty,Safety & Maintenance,STAGING???,PAIR,38,15,385.6,Meridian Industrial,2026-09-27,,1,REVIEW,14652.8,CHECK
+IN-0108,SP-1208,Service Access Latch - Type B,Safety & Maintenance,WH-A-01-05,PAIR,34,5,12.65,Redgate Supply,2026-09-04,,0,READY,430.1,OK
+IN-0109,SP-1209,Temperature Probe - Heavy Duty,Sensors & Instrumentation,WH-A-01-05,BOX,,13,260.55,Redgate Supply,2026-09-03,,1,REVIEW,,CHECK
+IN-0110,SP-1210,Digital Pressure Sensor - Metric,Sensors & Instrumentation,WH-A-03-01,EA,71,12,346.2,North Forge Parts,2026-08-01,,0,READY,24580.2,OK
+IN-0111,MISSING,Flow Indicator - Heavy Duty,Sensors & Instrumentation,WH-A-02-03,EA,35,18,267.6,Canyon Equipment,2026-09-08,,1,REVIEW,9366.0,CHECK
+IN-0112,SP-1212,current transformer - type b,Sensors & Instrumentation,WH-B-04-03,PAIR,88,17,146.78,Redgate Supply,2026-07-30,SP-1212,1,REVIEW,12916.64,CHECK
+IN-0113,SP-1213,Vibration Sensor - Type B,Sensors & Instrumentation,WH-A-04-04,EA,63,19,126.79,Meridian Industrial,2026-07-13,,0,READY,7987.77,OK
+IN-0114,SP-1214,Optical Encoder - Heavy Duty,Sensors & Instrumentation,WH-D-04-04,EA,51,7,219.48,Canyon Equipment,2026-07-24,,0,READY,11193.48,OK
+IN-0115,SP-1215,Level Switch - Heavy Duty,Sensors & Instrumentation,WH-D-01-05,BOX,16,10,24.58,North Forge Parts,2026-07-14,,0,READY,393.28,OK
+IN-0116,SP-1216,Tachometer Pickup - Heavy Duty,Sensors & Instrumentation,WH-C-03-01,EA,16,8,377.05,Meridian Industrial,2026-09-21,,0,READY,6032.8,OK
+IN-0117,SP-??,RTD Extension Cable - Metric,Sensors & Instrumentation,WH-C-01-03,EA,55,12,345.21,Canyon Equipment,2026-08-22,,1,REVIEW,18986.55,CHECK
+IN-0118,SP-1218,Sensor Mount - Heavy Duty,Sensors & Instrumentation,WH-D-03-01,EA,,6,389.68,North Forge Parts,2026-09-30,,1,REVIEW,,CHECK
+IN-0119,SP-1219,Encoder Cable - Metric,Sensors & Instrumentation,WH-D-02-05,EA,1,4,328.62,Meridian Industrial,2026-08-10,,0,READY,328.62,LOW
+IN-0120,SP-1220,thermocouple connector - standard,Sensors & Instrumentation,WH-C-03-01,FT,1,22,72.78,Canyon Equipment,2026-09-10,,0,READY,72.78,LOW
+IN-0121,SP-1105,Drive Pulley - Heavy Duty,Bearings & Power Transmission,WH-D-04-03,BOX,77,7,362.55,Canyon Equipment,2026-09-16,SP-1105,1,REVIEW,27916.35,CHECK
+IN-0122,SP-1122,Belt Cleaner Arm - Metric,Conveyor Systems,WH-B-04-01,EA,57,14,293.14,Redgate Supply,2026-07-26,SP-1122,1,REVIEW,16708.98,CHECK
+IN-0123,SP-1140,limit switch - type b,Electrical Controls,WH-D-03-03,BOX,23,18,75.53,North Forge Parts,2026-07-17,SP-1140,1,REVIEW,1737.19,CHECK
+IN-0124,SP-1164,push-to-connect fitting - type b,Pneumatics,WH-A-02-01,BOX,58,17,109.22,North Forge Parts,2026-09-18,SP-1164,1,REVIEW,6334.76,CHECK
+IN-0125,SP-1187,Oil Filter Element - Standard,Filters & Fluids,WH-C-01-03,EA,87,10,23.91,Meridian Industrial,2026-07-15,SP-1187,1,REVIEW,2080.17,CHECK
+IN-0126,SP-1212,current transformer - type b,Sensors & Instrumentation,WH-B-04-03,PAIR,88,17,146.78,Redgate Supply,2026-07-30,SP-1212,1,REVIEW,12916.64,CHECK
+IN-0127,SP-1138,Contactor Coil - Metric,Electrical Controls,WH-D-01-01,EA,65,15,288.19,Meridian Industrial,2026-07-19,SP-1138,1,REVIEW,18732.35,CHECK
+IN-0128,SP-1201,Warning Beacon - Heavy Duty,Safety & Maintenance,WH-D-01-05,EA,47,7,259.33,Redgate Supply,2026-07-28,SP-1201,1,REVIEW,12188.51,CHECK
+IN-0129,SP-1116,conveyor belt clip - standard,Conveyor Systems,WH-C-02-04,EA,10,9,262.92,Redgate Supply,2026-07-29,SP-1116,1,REVIEW,2629.2,CHECK
+IN-0130,SP-1152,Gear Reducer Seal - Type B,Motors & Drives,WH-C-02-04,EA,51,12,186.06,Canyon Equipment,2026-07-15,SP-1152,1,REVIEW,9489.06,CHECK
+IN-0131,SP-1161,Air Filter Regulator - Metric,Pneumatics,WH-C-02-04,EA,64,17,242.17,Redgate Supply,2026-08-03,SP-1161,1,REVIEW,15498.88,CHECK
+IN-0132,SP-1175,Socket Head Cap Screw - Heavy Duty,Fasteners & Hardware,WH-C-02-04,BOX,54,20,371.85,Meridian Industrial,2026-07-09,SP-1175,1,REVIEW,20079.9,CHECK
+IN-0133,SP-1205,Safety Sign Holder - Standard,Safety & Maintenance,WH-C-02-04,FT,42,21,61.34,Meridian Industrial,2026-07-25,SP-1205,1,REVIEW,2576.28,CHECK

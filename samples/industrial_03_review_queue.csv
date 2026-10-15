@@ -1,0 +1,56 @@
+﻿Issue ID,Source ID,SKU,Field,Observed,Issue Code,Severity,Why It Matters,Required Next Step,Disposition
+EX-0001,IN-0007,SP-1107,On Hand,,QTY_MISSING_OR_TEXT,High,Available quantity cannot be verified.,Recount stock and approve a numeric quantity.,OPEN
+EX-0002,IN-0012,SP-??,Part ID,SP-??,SKU_UNRECOGNIZED,High,Unrecognized part identifier; cannot safely map to catalog.,Confirm correct master SKU.,OPEN
+EX-0003,IN-0015,SP-1115,On Hand,TBD,QTY_MISSING_OR_TEXT,High,Available quantity cannot be verified.,Recount stock and approve a numeric quantity.,OPEN
+EX-0004,IN-0018,SP-1118,Storage Bin,,LOCATION_MISSING,Medium,Part has no locatable storage bin.,Confirm storage location.,OPEN
+EX-0005,IN-0021,SP-1121,Reorder Point,-1,REORDER_INVALID,Medium,Reorder point is missing or negative.,Confirm minimum stocking threshold.,OPEN
+EX-0006,IN-0026,SP-1126,Unit Cost USD,,COST_MISSING_OR_TEXT,Medium,Unit cost is unavailable; cannot estimate total value.,Confirm latest unit cost in source system.,OPEN
+EX-0007,IN-0027,SP-1127,On Hand,-3,NEGATIVE_QUANTITY,High,On-hand quantity is negative.,Investigate transaction history; do not overwrite.,OPEN
+EX-0008,IN-0033,SP-1133,Category,UNKNOWN CATEGORY,CATEGORY_UNKNOWN,Medium,Category is outside the controlled list.,Ask client to choose an approved category.,OPEN
+EX-0009,IN-0035,SP-1135,Storage Bin,STAGING???,LOCATION_INVALID,Medium,Bin does not fit the demonstrated warehouse layout.,Confirm and correct actual bin.,OPEN
+EX-0010,IN-0041,SP-1141,On Hand,,QTY_MISSING_OR_TEXT,High,Available quantity cannot be verified.,Recount stock and approve a numeric quantity.,OPEN
+EX-0011,IN-0044,SP-1144,Unit,PACK,UNIT_UNMAPPED,High,Unit cannot be mapped without quantity-conversion assumptions.,Confirm units and any package multiplier.,OPEN
+EX-0012,IN-0048,SP-1148,Unit Cost USD,Call,COST_MISSING_OR_TEXT,Medium,Unit cost is unavailable; cannot estimate total value.,Confirm latest unit cost in source system.,OPEN
+EX-0013,IN-0051,SP-1151,Storage Bin,,LOCATION_MISSING,Medium,Part has no locatable storage bin.,Confirm storage location.,OPEN
+EX-0014,IN-0056,SP-1156,On Hand,TBD,QTY_MISSING_OR_TEXT,High,Available quantity cannot be verified.,Recount stock and approve a numeric quantity.,OPEN
+EX-0015,IN-0063,SP-1163,Reorder Point,N/A,REORDER_INVALID,Medium,Reorder point is missing or negative.,Confirm minimum stocking threshold.,OPEN
+EX-0016,IN-0067,MISSING,Part ID,MISSING,SKU_UNRECOGNIZED,High,Unrecognized part identifier; cannot safely map to catalog.,Confirm correct master SKU.,OPEN
+EX-0017,IN-0073,SP-1173,On Hand,,QTY_MISSING_OR_TEXT,High,Available quantity cannot be verified.,Recount stock and approve a numeric quantity.,OPEN
+EX-0018,IN-0079,SP-1179,Reorder Point,-1,REORDER_INVALID,Medium,Reorder point is missing or negative.,Confirm minimum stocking threshold.,OPEN
+EX-0019,IN-0081,SP-1181,Supplier,TBD vendor,SUPPLIER_UNRECOGNIZED,Low,Supplier not matched to approved vendor list.,Confirm supplier name.,OPEN
+EX-0020,IN-0083,SP-1183,Unit Cost USD,,COST_MISSING_OR_TEXT,Medium,Unit cost is unavailable; cannot estimate total value.,Confirm latest unit cost in source system.,OPEN
+EX-0021,IN-0084,SP-1184,Unit,PACK,UNIT_UNMAPPED,High,Unit cannot be mapped without quantity-conversion assumptions.,Confirm units and any package multiplier.,OPEN
+EX-0022,IN-0089,SP-1189,On Hand,-3,NEGATIVE_QUANTITY,High,On-hand quantity is negative.,Investigate transaction history; do not overwrite.,OPEN
+EX-0023,IN-0096,SP-1196,Storage Bin,,LOCATION_MISSING,Medium,Part has no locatable storage bin.,Confirm storage location.,OPEN
+EX-0024,IN-0104,SP-1204,Unit Cost USD,,COST_MISSING_OR_TEXT,Medium,Unit cost is unavailable; cannot estimate total value.,Confirm latest unit cost in source system.,OPEN
+EX-0025,IN-0107,SP-1207,Storage Bin,STAGING???,LOCATION_INVALID,Medium,Bin does not fit the demonstrated warehouse layout.,Confirm and correct actual bin.,OPEN
+EX-0026,IN-0109,SP-1209,On Hand,TBD,QTY_MISSING_OR_TEXT,High,Available quantity cannot be verified.,Recount stock and approve a numeric quantity.,OPEN
+EX-0027,IN-0111,MISSING,Part ID,MISSING,SKU_UNRECOGNIZED,High,Unrecognized part identifier; cannot safely map to catalog.,Confirm correct master SKU.,OPEN
+EX-0028,IN-0117,SP-??,Part ID,SP-??,SKU_UNRECOGNIZED,High,Unrecognized part identifier; cannot safely map to catalog.,Confirm correct master SKU.,OPEN
+EX-0029,IN-0118,SP-1218,On Hand,,QTY_MISSING_OR_TEXT,High,Available quantity cannot be verified.,Recount stock and approve a numeric quantity.,OPEN
+EX-0030,IN-0005,SP-1105,Part ID,SP-1105,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0031,IN-0016,SP-1116,Part ID,SP-1116,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0032,IN-0022,SP-1122,Part ID,SP-1122,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0033,IN-0038,SP-1138,Part ID,SP-1138,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0034,IN-0040,SP-1140,Part ID,SP-1140,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0035,IN-0052,SP-1152,Part ID,SP-1152,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0036,IN-0061,SP-1161,Part ID,SP-1161,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0037,IN-0064,SP-1164,Part ID,SP-1164,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0038,IN-0075,SP-1175,Part ID,SP-1175,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0039,IN-0087,SP-1187,Part ID,SP-1187,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0040,IN-0101,SP-1201,Part ID,SP-1201,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0041,IN-0105,SP-1205,Part ID,SP-1205,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0042,IN-0112,SP-1212,Part ID,SP-1212,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0043,IN-0121,SP-1105,Part ID,SP-1105,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0044,IN-0122,SP-1122,Part ID,SP-1122,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0045,IN-0123,SP-1140,Part ID,SP-1140,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0046,IN-0124,SP-1164,Part ID,SP-1164,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0047,IN-0125,SP-1187,Part ID,SP-1187,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0048,IN-0126,SP-1212,Part ID,SP-1212,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0049,IN-0127,SP-1138,Part ID,SP-1138,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0050,IN-0128,SP-1201,Part ID,SP-1201,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0051,IN-0129,SP-1116,Part ID,SP-1116,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0052,IN-0130,SP-1152,Part ID,SP-1152,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0053,IN-0131,SP-1161,Part ID,SP-1161,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0054,IN-0132,SP-1175,Part ID,SP-1175,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN
+EX-0055,IN-0133,SP-1205,Part ID,SP-1205,DUPLICATE_SKU,High,Part number appears in multiple source rows; bin or count may conflict.,Compare counts and bins; decide merge/retain only with approval.,OPEN

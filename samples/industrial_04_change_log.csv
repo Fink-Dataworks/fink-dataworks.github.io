@@ -1,0 +1,409 @@
+﻿Change ID,Source ID,Field,Before,After,Rule Applied,Classification
+CH-0001,IN-0001,Part ID,SP1101,SP-1101,Format recognized SP part code,SAFE NORMALIZATION
+CH-0002,IN-0001,Category,Pwr Trans,Bearings & Power Transmission,Map known category synonym,SAFE NORMALIZATION
+CH-0003,IN-0001,Unit,pair,PAIR,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0004,IN-0002,Category,BEARINGS,Bearings & Power Transmission,Map known category synonym,SAFE NORMALIZATION
+CH-0005,IN-0002,Storage Bin,wh-c-02-03,WH-C-02-03,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0006,IN-0002,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0007,IN-0002,Supplier,MERIDIAN INDUSTRIAL,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0008,IN-0003,Part ID,sp-1103,SP-1103,Format recognized SP part code,SAFE NORMALIZATION
+CH-0009,IN-0003,Category,BEARINGS,Bearings & Power Transmission,Map known category synonym,SAFE NORMALIZATION
+CH-0010,IN-0003,Storage Bin,wh-a-01-02,WH-A-01-02,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0011,IN-0003,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0012,IN-0003,Supplier,NORTH FORGE PARTS,North Forge Parts,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0013,IN-0004,Category,BEARINGS,Bearings & Power Transmission,Map known category synonym,SAFE NORMALIZATION
+CH-0014,IN-0004,Storage Bin,C1-01,WH-C-01-01,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0015,IN-0004,Supplier,MERIDIAN INDUSTRIAL,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0016,IN-0005,Category,Pwr Trans,Bearings & Power Transmission,Map known category synonym,SAFE NORMALIZATION
+CH-0017,IN-0005,Supplier,CANYON EQUIPMENT,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0018,IN-0006,Part ID,SP1106,SP-1106,Format recognized SP part code,SAFE NORMALIZATION
+CH-0019,IN-0006,Category,Pwr Trans,Bearings & Power Transmission,Map known category synonym,SAFE NORMALIZATION
+CH-0020,IN-0007,Part ID,SP1107,SP-1107,Format recognized SP part code,SAFE NORMALIZATION
+CH-0021,IN-0007,Category,BEARINGS,Bearings & Power Transmission,Map known category synonym,SAFE NORMALIZATION
+CH-0022,IN-0007,Storage Bin,wh-c-03-04,WH-C-03-04,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0023,IN-0007,Supplier,NORTH FORGE PARTS,North Forge Parts,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0024,IN-0008,Part Description, taper lock bushing  -  standard ,taper lock bushing - standard,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0025,IN-0008,Category,BEARINGS,Bearings & Power Transmission,Map known category synonym,SAFE NORMALIZATION
+CH-0026,IN-0008,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0027,IN-0008,Supplier,MERIDIAN INDUSTRIAL,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0028,IN-0009,Category,Pwr Trans,Bearings & Power Transmission,Map known category synonym,SAFE NORMALIZATION
+CH-0029,IN-0009,Supplier,Meridian Ind.,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0030,IN-0010,Category,BEARINGS,Bearings & Power Transmission,Map known category synonym,SAFE NORMALIZATION
+CH-0031,IN-0010,Supplier,Meridian Ind.,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0032,IN-0011,Storage Bin,wh-d-02-02,WH-D-02-02,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0033,IN-0011,Supplier,Meridian Ind.,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0034,IN-0012,Category,Pwr Trans,Bearings & Power Transmission,Map known category synonym,SAFE NORMALIZATION
+CH-0035,IN-0012,Storage Bin,B2-05,WH-B-02-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0036,IN-0012,Unit,each,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0037,IN-0012,Supplier,CANYON EQUIPMENT,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0038,IN-0013,Category,CONVEYOR,Conveyor Systems,Map known category synonym,SAFE NORMALIZATION
+CH-0039,IN-0013,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0040,IN-0013,Supplier,Meridian Ind.,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0041,IN-0013,Last Counted,08/31/2026,2026-08-31,Normalize valid calendar date,SAFE NORMALIZATION
+CH-0042,IN-0014,Part ID,sp-1114,SP-1114,Format recognized SP part code,SAFE NORMALIZATION
+CH-0043,IN-0014,Category,Conveyors,Conveyor Systems,Map known category synonym,SAFE NORMALIZATION
+CH-0044,IN-0014,Storage Bin,C2-03,WH-C-02-03,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0045,IN-0014,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0046,IN-0014,Supplier,Canyon Equip.,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0047,IN-0015,Part ID,SP 1115,SP-1115,Format recognized SP part code,SAFE NORMALIZATION
+CH-0048,IN-0015,Category,Conveyors,Conveyor Systems,Map known category synonym,SAFE NORMALIZATION
+CH-0049,IN-0015,Storage Bin,A4-04,WH-A-04-04,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0050,IN-0015,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0051,IN-0015,Supplier,CANYON EQUIPMENT,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0052,IN-0016,Part Description, conveyor belt clip  -  standard ,conveyor belt clip - standard,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0053,IN-0016,Category,Conveyors,Conveyor Systems,Map known category synonym,SAFE NORMALIZATION
+CH-0054,IN-0016,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0055,IN-0017,Category,Conveyors,Conveyor Systems,Map known category synonym,SAFE NORMALIZATION
+CH-0056,IN-0017,Storage Bin,wh-a-02-05,WH-A-02-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0057,IN-0017,Supplier,N. Forge Parts,North Forge Parts,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0058,IN-0018,Part ID,sp-1118,SP-1118,Format recognized SP part code,SAFE NORMALIZATION
+CH-0059,IN-0018,Category,CONVEYOR,Conveyor Systems,Map known category synonym,SAFE NORMALIZATION
+CH-0060,IN-0018,Supplier,CANYON EQUIPMENT,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0061,IN-0019,Category,CONVEYOR,Conveyor Systems,Map known category synonym,SAFE NORMALIZATION
+CH-0062,IN-0019,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0063,IN-0020,Part ID,sp-1120,SP-1120,Format recognized SP part code,SAFE NORMALIZATION
+CH-0064,IN-0020,Storage Bin,A2-05,WH-A-02-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0065,IN-0020,Unit,each,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0066,IN-0021,Unit,pair,PAIR,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0067,IN-0022,Unit,each,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0068,IN-0022,Supplier,REDGATE SUPPLY,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0069,IN-0023,Category,Conveyors,Conveyor Systems,Map known category synonym,SAFE NORMALIZATION
+CH-0070,IN-0023,Unit,ft,FT,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0071,IN-0023,Supplier,Meridian Ind.,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0072,IN-0024,Part ID,SP 1124,SP-1124,Format recognized SP part code,SAFE NORMALIZATION
+CH-0073,IN-0024,Part Description, splice plate  -  metric ,splice plate - metric,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0074,IN-0024,Category,CONVEYOR,Conveyor Systems,Map known category synonym,SAFE NORMALIZATION
+CH-0075,IN-0024,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0076,IN-0024,Supplier,Canyon Equip.,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0077,IN-0025,Part ID,SP 1125,SP-1125,Format recognized SP part code,SAFE NORMALIZATION
+CH-0078,IN-0025,Unit,each,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0079,IN-0026,Part ID,sp-1126,SP-1126,Format recognized SP part code,SAFE NORMALIZATION
+CH-0080,IN-0026,Category,HYD,Hydraulics,Map known category synonym,SAFE NORMALIZATION
+CH-0081,IN-0026,Storage Bin,B2-05,WH-B-02-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0082,IN-0026,Supplier,MERIDIAN INDUSTRIAL,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0083,IN-0026,Last Counted,08/06/2026,2026-08-06,Normalize valid calendar date,SAFE NORMALIZATION
+CH-0084,IN-0027,Part ID,SP1127,SP-1127,Format recognized SP part code,SAFE NORMALIZATION
+CH-0085,IN-0027,Storage Bin,A2-04,WH-A-02-04,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0086,IN-0027,Unit,pair,PAIR,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0087,IN-0027,Supplier,Meridian Ind.,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0088,IN-0028,Part ID,SP1128,SP-1128,Format recognized SP part code,SAFE NORMALIZATION
+CH-0089,IN-0028,Category,HYD,Hydraulics,Map known category synonym,SAFE NORMALIZATION
+CH-0090,IN-0028,Storage Bin,wh-d-01-05,WH-D-01-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0091,IN-0029,Part ID,sp-1129,SP-1129,Format recognized SP part code,SAFE NORMALIZATION
+CH-0092,IN-0029,Storage Bin,wh-b-04-02,WH-B-04-02,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0093,IN-0029,Unit,each,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0094,IN-0029,Supplier,CANYON EQUIPMENT,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0095,IN-0030,Part ID,SP1130,SP-1130,Format recognized SP part code,SAFE NORMALIZATION
+CH-0096,IN-0030,Category,HYD,Hydraulics,Map known category synonym,SAFE NORMALIZATION
+CH-0097,IN-0030,Storage Bin,A3-02,WH-A-03-02,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0098,IN-0030,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0099,IN-0031,Part ID,sp-1131,SP-1131,Format recognized SP part code,SAFE NORMALIZATION
+CH-0100,IN-0031,Storage Bin,A1-02,WH-A-01-02,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0101,IN-0031,Unit,pair,PAIR,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0102,IN-0031,Supplier,Canyon Equip.,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0103,IN-0032,Part Description, relief valve  -  standard ,relief valve - standard,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0104,IN-0032,Storage Bin,wh-d-04-01,WH-D-04-01,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0105,IN-0032,Unit,ft,FT,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0106,IN-0032,Supplier,Redgate,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0107,IN-0033,Storage Bin,wh-c-04-05,WH-C-04-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0108,IN-0033,Supplier,Meridian Ind.,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0109,IN-0034,Category,Hydraulic,Hydraulics,Map known category synonym,SAFE NORMALIZATION
+CH-0110,IN-0034,Storage Bin,wh-c-03-05,WH-C-03-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0111,IN-0034,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0112,IN-0035,Part ID,sp-1135,SP-1135,Format recognized SP part code,SAFE NORMALIZATION
+CH-0113,IN-0035,Category,Hydraulic,Hydraulics,Map known category synonym,SAFE NORMALIZATION
+CH-0114,IN-0035,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0115,IN-0036,Part ID,sp-1136,SP-1136,Format recognized SP part code,SAFE NORMALIZATION
+CH-0116,IN-0036,Category,HYD,Hydraulics,Map known category synonym,SAFE NORMALIZATION
+CH-0117,IN-0036,Storage Bin,wh-a-01-05,WH-A-01-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0118,IN-0037,Category,Electrical,Electrical Controls,Map known category synonym,SAFE NORMALIZATION
+CH-0119,IN-0037,Storage Bin,C4-02,WH-C-04-02,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0120,IN-0037,Unit,pair,PAIR,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0121,IN-0037,Supplier,N. Forge Parts,North Forge Parts,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0122,IN-0038,Category,ELEC Controls,Electrical Controls,Map known category synonym,SAFE NORMALIZATION
+CH-0123,IN-0038,Unit,each,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0124,IN-0038,Supplier,Meridian Ind.,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0125,IN-0039,Storage Bin,wh-c-01-03,WH-C-01-03,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0126,IN-0039,Supplier,Canyon Equip.,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0127,IN-0039,Last Counted,08/06/2026,2026-08-06,Normalize valid calendar date,SAFE NORMALIZATION
+CH-0128,IN-0040,Part Description, limit switch  -  type b ,limit switch - type b,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0129,IN-0040,Supplier,NORTH FORGE PARTS,North Forge Parts,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0130,IN-0041,Category,Electrical,Electrical Controls,Map known category synonym,SAFE NORMALIZATION
+CH-0131,IN-0041,Storage Bin,wh-a-04-04,WH-A-04-04,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0132,IN-0041,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0133,IN-0042,Category,Electrical,Electrical Controls,Map known category synonym,SAFE NORMALIZATION
+CH-0134,IN-0042,Storage Bin,C2-05,WH-C-02-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0135,IN-0042,Unit,pair,PAIR,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0136,IN-0043,Category,ELEC Controls,Electrical Controls,Map known category synonym,SAFE NORMALIZATION
+CH-0137,IN-0043,Storage Bin,B3-05,WH-B-03-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0138,IN-0043,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0139,IN-0043,Supplier,Canyon Equip.,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0140,IN-0044,Category,Electrical,Electrical Controls,Map known category synonym,SAFE NORMALIZATION
+CH-0141,IN-0044,Storage Bin,wh-a-03-04,WH-A-03-04,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0142,IN-0044,Supplier,MERIDIAN INDUSTRIAL,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0143,IN-0045,Storage Bin,wh-d-04-05,WH-D-04-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0144,IN-0045,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0145,IN-0046,Part ID,sp-1146,SP-1146,Format recognized SP part code,SAFE NORMALIZATION
+CH-0146,IN-0046,Category,Electrical,Electrical Controls,Map known category synonym,SAFE NORMALIZATION
+CH-0147,IN-0046,Storage Bin,C1-01,WH-C-01-01,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0148,IN-0046,Supplier,REDGATE SUPPLY,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0149,IN-0047,Part ID,SP 1147,SP-1147,Format recognized SP part code,SAFE NORMALIZATION
+CH-0150,IN-0047,Storage Bin,wh-b-04-05,WH-B-04-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0151,IN-0047,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0152,IN-0048,Part Description, control transformer  -  series 2 ,control transformer - series 2,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0153,IN-0048,Storage Bin,wh-c-02-03,WH-C-02-03,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0154,IN-0050,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0155,IN-0050,Supplier,Canyon Equip.,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0156,IN-0051,Category,MOTORS,Motors & Drives,Map known category synonym,SAFE NORMALIZATION
+CH-0157,IN-0051,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0158,IN-0052,Part ID,SP 1152,SP-1152,Format recognized SP part code,SAFE NORMALIZATION
+CH-0159,IN-0052,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0160,IN-0052,Supplier,CANYON EQUIPMENT,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0161,IN-0052,Last Counted,07/15/2026,2026-07-15,Normalize valid calendar date,SAFE NORMALIZATION
+CH-0162,IN-0053,Part ID,sp-1153,SP-1153,Format recognized SP part code,SAFE NORMALIZATION
+CH-0163,IN-0053,Storage Bin,wh-d-01-05,WH-D-01-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0164,IN-0053,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0165,IN-0054,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0166,IN-0054,Supplier,NORTH FORGE PARTS,North Forge Parts,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0167,IN-0055,Storage Bin,A1-03,WH-A-01-03,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0168,IN-0055,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0169,IN-0055,Supplier,REDGATE SUPPLY,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0170,IN-0056,Part Description, fan guard  -  standard ,fan guard - standard,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0171,IN-0056,Category,Drives,Motors & Drives,Map known category synonym,SAFE NORMALIZATION
+CH-0172,IN-0056,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0173,IN-0056,Supplier,Meridian Ind.,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0174,IN-0057,Category,Drives,Motors & Drives,Map known category synonym,SAFE NORMALIZATION
+CH-0175,IN-0057,Storage Bin,C2-04,WH-C-02-04,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0176,IN-0057,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0177,IN-0057,Supplier,Canyon Equip.,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0178,IN-0058,Part ID,sp-1158,SP-1158,Format recognized SP part code,SAFE NORMALIZATION
+CH-0179,IN-0058,Storage Bin,B4-05,WH-B-04-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0180,IN-0059,Storage Bin,A4-05,WH-A-04-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0181,IN-0059,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0182,IN-0059,Supplier,REDGATE SUPPLY,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0183,IN-0060,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0184,IN-0060,Supplier,REDGATE SUPPLY,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0185,IN-0062,Part ID,sp-1162,SP-1162,Format recognized SP part code,SAFE NORMALIZATION
+CH-0186,IN-0062,Category,AIR SYS,Pneumatics,Map known category synonym,SAFE NORMALIZATION
+CH-0187,IN-0062,Storage Bin,C3-01,WH-C-03-01,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0188,IN-0062,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0189,IN-0063,Unit,pair,PAIR,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0190,IN-0063,Supplier,REDGATE SUPPLY,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0191,IN-0064,Part ID,sp-1164,SP-1164,Format recognized SP part code,SAFE NORMALIZATION
+CH-0192,IN-0064,Part Description, push-to-connect fitting  -  type b ,push-to-connect fitting - type b,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0193,IN-0064,Category,Pneumatic,Pneumatics,Map known category synonym,SAFE NORMALIZATION
+CH-0194,IN-0064,Unit,box,BOX,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0195,IN-0064,Supplier,NORTH FORGE PARTS,North Forge Parts,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0196,IN-0065,Part ID,SP 1165,SP-1165,Format recognized SP part code,SAFE NORMALIZATION
+CH-0197,IN-0065,Category,Pneumatic,Pneumatics,Map known category synonym,SAFE NORMALIZATION
+CH-0198,IN-0065,Storage Bin,wh-d-03-02,WH-D-03-02,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0199,IN-0065,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0200,IN-0065,Last Counted,09/24/2026,2026-09-24,Normalize valid calendar date,SAFE NORMALIZATION
+CH-0201,IN-0066,Category,Pneumatic,Pneumatics,Map known category synonym,SAFE NORMALIZATION
+CH-0202,IN-0066,Storage Bin,wh-d-01-04,WH-D-01-04,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0203,IN-0066,Unit,ft,FT,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0204,IN-0067,Category,Pneumatic,Pneumatics,Map known category synonym,SAFE NORMALIZATION
+CH-0205,IN-0067,Supplier,CANYON EQUIPMENT,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0206,IN-0068,Category,AIR SYS,Pneumatics,Map known category synonym,SAFE NORMALIZATION
+CH-0207,IN-0068,Storage Bin,wh-b-03-04,WH-B-03-04,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0208,IN-0068,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0209,IN-0068,Supplier,CANYON EQUIPMENT,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0210,IN-0069,Category,AIR SYS,Pneumatics,Map known category synonym,SAFE NORMALIZATION
+CH-0211,IN-0069,Storage Bin,D4-01,WH-D-04-01,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0212,IN-0069,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0213,IN-0069,Supplier,Redgate,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0214,IN-0070,Category,Pneumatic,Pneumatics,Map known category synonym,SAFE NORMALIZATION
+CH-0215,IN-0070,Storage Bin,wh-c-01-04,WH-C-01-04,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0216,IN-0070,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0217,IN-0071,Part ID,SP1171,SP-1171,Format recognized SP part code,SAFE NORMALIZATION
+CH-0218,IN-0071,Storage Bin,C1-03,WH-C-01-03,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0219,IN-0072,Part ID,sp-1172,SP-1172,Format recognized SP part code,SAFE NORMALIZATION
+CH-0220,IN-0072,Part Description, air hose reel  -  standard ,air hose reel - standard,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0221,IN-0072,Category,Pneumatic,Pneumatics,Map known category synonym,SAFE NORMALIZATION
+CH-0222,IN-0072,Unit,pair,PAIR,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0223,IN-0072,Supplier,MERIDIAN INDUSTRIAL,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0224,IN-0073,Part ID,sp-1173,SP-1173,Format recognized SP part code,SAFE NORMALIZATION
+CH-0225,IN-0073,Category,Hardware,Fasteners & Hardware,Map known category synonym,SAFE NORMALIZATION
+CH-0226,IN-0073,Storage Bin,wh-b-02-03,WH-B-02-03,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0227,IN-0074,Category,Hardware,Fasteners & Hardware,Map known category synonym,SAFE NORMALIZATION
+CH-0228,IN-0074,Storage Bin,wh-b-02-03,WH-B-02-03,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0229,IN-0074,Unit,box,BOX,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0230,IN-0074,Supplier,NORTH FORGE PARTS,North Forge Parts,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0231,IN-0075,Part ID,sp-1175,SP-1175,Format recognized SP part code,SAFE NORMALIZATION
+CH-0232,IN-0075,Category,Hardware,Fasteners & Hardware,Map known category synonym,SAFE NORMALIZATION
+CH-0233,IN-0075,Supplier,MERIDIAN INDUSTRIAL,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0234,IN-0076,Category,Fasteners,Fasteners & Hardware,Map known category synonym,SAFE NORMALIZATION
+CH-0235,IN-0076,Supplier,Canyon Equip.,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0236,IN-0077,Unit,ft,FT,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0237,IN-0077,Supplier,CANYON EQUIPMENT,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0238,IN-0078,Part ID,SP 1178,SP-1178,Format recognized SP part code,SAFE NORMALIZATION
+CH-0239,IN-0078,Storage Bin,C3-01,WH-C-03-01,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0240,IN-0078,Unit,each,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0241,IN-0078,Supplier,Redgate,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0242,IN-0078,Last Counted,08/08/2026,2026-08-08,Normalize valid calendar date,SAFE NORMALIZATION
+CH-0243,IN-0079,Category,Fasteners,Fasteners & Hardware,Map known category synonym,SAFE NORMALIZATION
+CH-0244,IN-0079,Storage Bin,B4-02,WH-B-04-02,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0245,IN-0079,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0246,IN-0079,Supplier,Meridian Ind.,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0247,IN-0080,Part Description, lock washer  -  metric ,lock washer - metric,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0248,IN-0080,Category,Fasteners,Fasteners & Hardware,Map known category synonym,SAFE NORMALIZATION
+CH-0249,IN-0080,Storage Bin,wh-a-02-03,WH-A-02-03,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0250,IN-0080,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0251,IN-0080,Supplier,Meridian Ind.,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0252,IN-0081,Category,Fasteners,Fasteners & Hardware,Map known category synonym,SAFE NORMALIZATION
+CH-0253,IN-0081,Storage Bin,wh-a-01-01,WH-A-01-01,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0254,IN-0082,Unit,box,BOX,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0255,IN-0083,Category,Fasteners,Fasteners & Hardware,Map known category synonym,SAFE NORMALIZATION
+CH-0256,IN-0083,Storage Bin,wh-d-02-03,WH-D-02-03,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0257,IN-0083,Unit,pair,PAIR,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0258,IN-0084,Storage Bin,B4-05,WH-B-04-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0259,IN-0085,Category,Filters,Filters & Fluids,Map known category synonym,SAFE NORMALIZATION
+CH-0260,IN-0085,Storage Bin,C1-05,WH-C-01-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0261,IN-0085,Unit,ft,FT,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0262,IN-0086,Unit,box,BOX,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0263,IN-0086,Supplier,REDGATE SUPPLY,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0264,IN-0087,Category,Lube & Filters,Filters & Fluids,Map known category synonym,SAFE NORMALIZATION
+CH-0265,IN-0087,Storage Bin,wh-c-01-03,WH-C-01-03,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0266,IN-0087,Unit,each,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0267,IN-0088,Part Description, coolant strainer  -  series 2 ,coolant strainer - series 2,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0268,IN-0088,Storage Bin,A4-05,WH-A-04-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0269,IN-0088,Unit,box,BOX,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0270,IN-0089,Category,Filters,Filters & Fluids,Map known category synonym,SAFE NORMALIZATION
+CH-0271,IN-0089,Unit,ft,FT,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0272,IN-0090,Category,Lube & Filters,Filters & Fluids,Map known category synonym,SAFE NORMALIZATION
+CH-0273,IN-0090,Storage Bin,A2-02,WH-A-02-02,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0274,IN-0090,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0275,IN-0090,Supplier,Canyon Equip.,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0276,IN-0091,Storage Bin,wh-d-02-01,WH-D-02-01,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0277,IN-0091,Unit,pair,PAIR,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0278,IN-0091,Supplier,REDGATE SUPPLY,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0279,IN-0091,Last Counted,09/28/2026,2026-09-28,Normalize valid calendar date,SAFE NORMALIZATION
+CH-0280,IN-0092,Category,Filters,Filters & Fluids,Map known category synonym,SAFE NORMALIZATION
+CH-0281,IN-0092,Storage Bin,D3-05,WH-D-03-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0282,IN-0092,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0283,IN-0093,Storage Bin,wh-a-01-03,WH-A-01-03,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0284,IN-0094,Category,Lube & Filters,Filters & Fluids,Map known category synonym,SAFE NORMALIZATION
+CH-0285,IN-0094,Supplier,Meridian Ind.,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0286,IN-0095,Part ID,sp-1195,SP-1195,Format recognized SP part code,SAFE NORMALIZATION
+CH-0287,IN-0095,Category,Lube & Filters,Filters & Fluids,Map known category synonym,SAFE NORMALIZATION
+CH-0288,IN-0095,Unit,each,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0289,IN-0095,Supplier,Canyon Equip.,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0290,IN-0096,Part ID,SP 1196,SP-1196,Format recognized SP part code,SAFE NORMALIZATION
+CH-0291,IN-0096,Part Description, cooling fan filter  -  standard ,cooling fan filter - standard,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0292,IN-0096,Unit,each,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0293,IN-0096,Supplier,CANYON EQUIPMENT,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0294,IN-0097,Part ID,SP1197,SP-1197,Format recognized SP part code,SAFE NORMALIZATION
+CH-0295,IN-0097,Category,Safety,Safety & Maintenance,Map known category synonym,SAFE NORMALIZATION
+CH-0296,IN-0097,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0297,IN-0097,Supplier,REDGATE SUPPLY,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0298,IN-0098,Part ID,SP 1198,SP-1198,Format recognized SP part code,SAFE NORMALIZATION
+CH-0299,IN-0098,Category,Maintenance Safety,Safety & Maintenance,Map known category synonym,SAFE NORMALIZATION
+CH-0300,IN-0098,Storage Bin,C3-02,WH-C-03-02,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0301,IN-0098,Supplier,CANYON EQUIPMENT,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0302,IN-0099,Storage Bin,wh-a-03-03,WH-A-03-03,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0303,IN-0099,Supplier,REDGATE SUPPLY,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0304,IN-0100,Category,Maintenance Safety,Safety & Maintenance,Map known category synonym,SAFE NORMALIZATION
+CH-0305,IN-0100,Storage Bin,wh-d-02-02,WH-D-02-02,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0306,IN-0100,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0307,IN-0100,Supplier,NORTH FORGE PARTS,North Forge Parts,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0308,IN-0101,Part ID,SP1201,SP-1201,Format recognized SP part code,SAFE NORMALIZATION
+CH-0309,IN-0101,Category,Maintenance Safety,Safety & Maintenance,Map known category synonym,SAFE NORMALIZATION
+CH-0310,IN-0101,Unit,each,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0311,IN-0101,Supplier,REDGATE SUPPLY,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0312,IN-0102,Category,Maintenance Safety,Safety & Maintenance,Map known category synonym,SAFE NORMALIZATION
+CH-0313,IN-0102,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0314,IN-0102,Supplier,Redgate,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0315,IN-0103,Unit,box,BOX,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0316,IN-0104,Part Description, machine light  -  standard ,machine light - standard,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0317,IN-0104,Category,Safety,Safety & Maintenance,Map known category synonym,SAFE NORMALIZATION
+CH-0318,IN-0104,Storage Bin,wh-b-03-01,WH-B-03-01,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0319,IN-0104,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0320,IN-0104,Last Counted,09/30/2026,2026-09-30,Normalize valid calendar date,SAFE NORMALIZATION
+CH-0321,IN-0105,Storage Bin,wh-a-03-01,WH-A-03-01,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0322,IN-0106,Category,Maintenance Safety,Safety & Maintenance,Map known category synonym,SAFE NORMALIZATION
+CH-0323,IN-0106,Storage Bin,C3-04,WH-C-03-04,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0324,IN-0107,Supplier,Meridian Ind.,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0325,IN-0108,Part ID,SP 1208,SP-1208,Format recognized SP part code,SAFE NORMALIZATION
+CH-0326,IN-0108,Storage Bin,wh-a-01-05,WH-A-01-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0327,IN-0108,Unit,pair,PAIR,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0328,IN-0108,Supplier,Redgate,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0329,IN-0109,Part ID,sp-1209,SP-1209,Format recognized SP part code,SAFE NORMALIZATION
+CH-0330,IN-0109,Category,Sensors,Sensors & Instrumentation,Map known category synonym,SAFE NORMALIZATION
+CH-0331,IN-0109,Storage Bin,wh-a-01-05,WH-A-01-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0332,IN-0109,Supplier,REDGATE SUPPLY,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0333,IN-0110,Category,Sensors,Sensors & Instrumentation,Map known category synonym,SAFE NORMALIZATION
+CH-0334,IN-0110,Supplier,N. Forge Parts,North Forge Parts,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0335,IN-0111,Category,Instrumentation,Sensors & Instrumentation,Map known category synonym,SAFE NORMALIZATION
+CH-0336,IN-0111,Storage Bin,wh-a-02-03,WH-A-02-03,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0337,IN-0111,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0338,IN-0112,Part Description, current transformer  -  type b ,current transformer - type b,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0339,IN-0112,Category,Sensors,Sensors & Instrumentation,Map known category synonym,SAFE NORMALIZATION
+CH-0340,IN-0112,Unit,pair,PAIR,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0341,IN-0112,Supplier,Redgate,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0342,IN-0113,Part ID,SP 1213,SP-1213,Format recognized SP part code,SAFE NORMALIZATION
+CH-0343,IN-0113,Category,Instrumentation,Sensors & Instrumentation,Map known category synonym,SAFE NORMALIZATION
+CH-0344,IN-0113,Storage Bin,A4-04,WH-A-04-04,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0345,IN-0113,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0346,IN-0113,Supplier,Meridian Ind.,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0347,IN-0114,Storage Bin,D4-04,WH-D-04-04,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0348,IN-0114,Unit,each,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0349,IN-0114,Supplier,CANYON EQUIPMENT,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0350,IN-0115,Category,Instrumentation,Sensors & Instrumentation,Map known category synonym,SAFE NORMALIZATION
+CH-0351,IN-0115,Storage Bin,wh-d-01-05,WH-D-01-05,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0352,IN-0115,Supplier,N. Forge Parts,North Forge Parts,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0353,IN-0116,Category,Sensors,Sensors & Instrumentation,Map known category synonym,SAFE NORMALIZATION
+CH-0354,IN-0116,Storage Bin,wh-c-03-01,WH-C-03-01,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0355,IN-0116,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0356,IN-0116,Supplier,MERIDIAN INDUSTRIAL,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0357,IN-0117,Category,Instrumentation,Sensors & Instrumentation,Map known category synonym,SAFE NORMALIZATION
+CH-0358,IN-0117,Storage Bin,C1-03,WH-C-01-03,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0359,IN-0117,Last Counted,08/22/2026,2026-08-22,Normalize valid calendar date,SAFE NORMALIZATION
+CH-0360,IN-0118,Part ID,sp-1218,SP-1218,Format recognized SP part code,SAFE NORMALIZATION
+CH-0361,IN-0118,Storage Bin,D3-01,WH-D-03-01,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0362,IN-0118,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0363,IN-0118,Supplier,N. Forge Parts,North Forge Parts,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0364,IN-0119,Part ID,sp-1219,SP-1219,Format recognized SP part code,SAFE NORMALIZATION
+CH-0365,IN-0119,Category,Sensors,Sensors & Instrumentation,Map known category synonym,SAFE NORMALIZATION
+CH-0366,IN-0119,Unit,each,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0367,IN-0119,Supplier,Meridian Ind.,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0368,IN-0120,Part ID,SP 1220,SP-1220,Format recognized SP part code,SAFE NORMALIZATION
+CH-0369,IN-0120,Part Description, thermocouple connector  -  standard ,thermocouple connector - standard,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0370,IN-0120,Category,Instrumentation,Sensors & Instrumentation,Map known category synonym,SAFE NORMALIZATION
+CH-0371,IN-0120,Storage Bin,C3-01,WH-C-03-01,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0372,IN-0120,Unit,ft,FT,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0373,IN-0120,Supplier,CANYON EQUIPMENT,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0374,IN-0121,Category,Pwr Trans,Bearings & Power Transmission,Map known category synonym,SAFE NORMALIZATION
+CH-0375,IN-0121,Supplier,CANYON EQUIPMENT,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0376,IN-0122,Unit,each,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0377,IN-0122,Supplier,REDGATE SUPPLY,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0378,IN-0123,Part Description, limit switch  -  type b ,limit switch - type b,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0379,IN-0123,Supplier,NORTH FORGE PARTS,North Forge Parts,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0380,IN-0124,Part ID,sp-1164,SP-1164,Format recognized SP part code,SAFE NORMALIZATION
+CH-0381,IN-0124,Part Description, push-to-connect fitting  -  type b ,push-to-connect fitting - type b,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0382,IN-0124,Category,Pneumatic,Pneumatics,Map known category synonym,SAFE NORMALIZATION
+CH-0383,IN-0124,Unit,box,BOX,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0384,IN-0124,Supplier,NORTH FORGE PARTS,North Forge Parts,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0385,IN-0125,Category,Lube & Filters,Filters & Fluids,Map known category synonym,SAFE NORMALIZATION
+CH-0386,IN-0125,Storage Bin,wh-c-01-03,WH-C-01-03,Expand recognized warehouse bin code,SAFE NORMALIZATION
+CH-0387,IN-0125,Unit,each,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0388,IN-0126,Part Description, current transformer  -  type b ,current transformer - type b,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0389,IN-0126,Category,Sensors,Sensors & Instrumentation,Map known category synonym,SAFE NORMALIZATION
+CH-0390,IN-0126,Unit,pair,PAIR,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0391,IN-0126,Supplier,Redgate,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0392,IN-0127,Category,ELEC Controls,Electrical Controls,Map known category synonym,SAFE NORMALIZATION
+CH-0393,IN-0127,Unit,each,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0394,IN-0127,Supplier,Meridian Ind.,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0395,IN-0128,Part ID,SP1201,SP-1201,Format recognized SP part code,SAFE NORMALIZATION
+CH-0396,IN-0128,Category,Maintenance Safety,Safety & Maintenance,Map known category synonym,SAFE NORMALIZATION
+CH-0397,IN-0128,Unit,each,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0398,IN-0128,Supplier,REDGATE SUPPLY,Redgate Supply,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0399,IN-0129,Part Description, conveyor belt clip  -  standard ,conveyor belt clip - standard,Trim and collapse whitespace,SAFE NORMALIZATION
+CH-0400,IN-0129,Category,Conveyors,Conveyor Systems,Map known category synonym,SAFE NORMALIZATION
+CH-0401,IN-0129,Unit,ea,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0402,IN-0130,Part ID,SP 1152,SP-1152,Format recognized SP part code,SAFE NORMALIZATION
+CH-0403,IN-0130,Unit,pcs,EA,Map known unit synonym (no quantity conversion),SAFE NORMALIZATION
+CH-0404,IN-0130,Supplier,CANYON EQUIPMENT,Canyon Equipment,Map known supplier abbreviation,SAFE NORMALIZATION
+CH-0405,IN-0130,Last Counted,07/15/2026,2026-07-15,Normalize valid calendar date,SAFE NORMALIZATION
+CH-0406,IN-0132,Part ID,sp-1175,SP-1175,Format recognized SP part code,SAFE NORMALIZATION
+CH-0407,IN-0132,Category,Hardware,Fasteners & Hardware,Map known category synonym,SAFE NORMALIZATION
+CH-0408,IN-0132,Supplier,MERIDIAN INDUSTRIAL,Meridian Industrial,Map known supplier abbreviation,SAFE NORMALIZATION
